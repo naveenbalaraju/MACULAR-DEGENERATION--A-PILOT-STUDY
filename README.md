@@ -3,5 +3,5 @@ OBJECTIVE: Investigation of Macular degeneration data and forecating the Age of 
 1. Implemented Principal component analyis and t-Distributed Stochastic Neighbor Embedding dimentionality reduction techniques 
    and visualized the data.
 2. Performed K-means and Hierarchial clustering to findout the natural clusters in the data.
-3. Built a Random forest classifier to forecast the Age of the patients.
+3. Built a Random forest classifier to forecast Age of the patients.
 
